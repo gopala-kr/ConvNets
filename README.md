@@ -17,6 +17,9 @@
 
 ---------------
 
+![cnn_models](https://github.com/gopala-kr/CNNs/blob/master/resources/img/cnn_models.PNG)
+
+-------------
 ### Surveys
 
 - Recent Advances in Convolutional Neural Networks. 2017 [[arxiv](https://arxiv.org/abs/1512.07108v6)]
