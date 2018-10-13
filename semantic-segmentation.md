@@ -168,24 +168,24 @@
   (from PASCAL VOC2012 [leaderboards](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6))
 * SEC: Seed, Expand and Constrain
   *   Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation, ECCV, 2016. [[Paper]](http://pub.ist.ac.at/~akolesnikov/files/ECCV2016/main.pdf) [[Code]](https://github.com/kolesman/SEC)
-  *  Efficient piecewise training of deep structured models for semantic segmentation, arXiv:1504.01013. [[Paper]](http://arxiv.org/pdf/1504.01013) (1st ranked in VOC2012)
-  *  Deeply Learning the Messages in Message Passing Inference, arXiv:1508.02108. [[Paper]](http://arxiv.org/pdf/1506.02108) (4th ranked in VOC2012)
+  *  Efficient piecewise training of deep structured models for semantic segmentation. [[Paper]](http://arxiv.org/pdf/1504.01013) (1st ranked in VOC2012)
+  *  Deeply Learning the Messages in Message Passing Inference. [[Paper]](http://arxiv.org/pdf/1506.02108) (4th ranked in VOC2012)
 * Deep Parsing Network (DPN)
-  *  Semantic Image Segmentation via Deep Parsing Network, arXiv:1509.02634 / ICCV 2015 [[Paper]](http://arxiv.org/pdf/1509.02634.pdf) (2nd ranked in VOC 2012)
+  *  Semantic Image Segmentation via Deep Parsing Network,  / ICCV 2015 [[Paper]](http://arxiv.org/pdf/1509.02634.pdf) (2nd ranked in VOC 2012)
 * CentraleSuperBoundaries, INRIA [[Paper]](http://arxiv.org/pdf/1511.07386)
-  *  Surpassing Humans in Boundary Detection using Deep Learning, arXiv:1411.07386 (4th ranked in VOC 2012)
+  *  Surpassing Humans in Boundary Detection using Deep Learning (4th ranked in VOC 2012)
 * BoxSup [[Paper]](http://arxiv.org/pdf/1503.01640)
-  *  BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation, arXiv:1503.01640. (6th ranked in VOC2012)
-  *  Learning Deconvolution Network for Semantic Segmentation, arXiv:1505.04366. [[Paper]](http://arxiv.org/pdf/1505.04366) (7th ranked in VOC2012)
+  *  BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation. (6th ranked in VOC2012)
+  *  Learning Deconvolution Network for Semantic Segmentation. [[Paper]](http://arxiv.org/pdf/1505.04366) (7th ranked in VOC2012)
   * Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation, arXiv:1506.04924. [[Paper]](http://arxiv.org/pdf/1506.04924)
-  * Learning Transferrable Knowledge for Semantic Segmentation with Deep Convolutional Neural Network, arXiv:1512.07928 [[Paper](http://arxiv.org/pdf/1512.07928.pdf)] [[Project Page](http://cvlab.postech.ac.kr/research/transfernet/)]
+  * Learning Transferrable Knowledge for Semantic Segmentation with Deep Convolutional Neural Network,  [[Paper](http://arxiv.org/pdf/1512.07928.pdf)] [[Project Page](http://cvlab.postech.ac.kr/research/transfernet/)]
 * Conditional Random Fields as Recurrent Neural Networks [[Paper]](http://arxiv.org/pdf/1502.03240)
   *  Conditional Random Fields as Recurrent Neural Networks, arXiv:1502.03240. (8th ranked in VOC2012)
-  *  Weakly-and semi-supervised learning of a DCNN for semantic image segmentation, arXiv:1502.02734. [[Paper]](http://arxiv.org/pdf/1502.02734) (9th ranked in VOC2012)
+  *  Weakly-and semi-supervised learning of a DCNN for semantic image segmentation, . [[Paper]](http://arxiv.org/pdf/1502.02734) (9th ranked in VOC2012)
 * Zoom-out [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Mostajabi_Feedforward_Semantic_Segmentation_2015_CVPR_paper.pdf)
   *  Feedforward Semantic Segmentation With Zoom-Out Features, CVPR, 2015
 * Joint Calibration [[Paper]](http://arxiv.org/pdf/1507.01581)
-  * Joint Calibration for Semantic Segmentation, arXiv:1507.01581.
+  * Joint Calibration for Semantic Segmentation,
 * Fully Convolutional Networks for Semantic Segmentation [[Paper-CVPR15]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf) [[Paper-arXiv15]](http://arxiv.org/pdf/1411.4038)
   *  Fully Convolutional Networks for Semantic Segmentation, CVPR, 2015.
 * Hypercolumn [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hariharan_Hypercolumns_for_Object_2015_CVPR_paper.pdf)
@@ -196,8 +196,8 @@
   * Scene Parsing with Multiscale Feature Learning, Purity Trees, and Optimal Covers, ICML, 2012.
   * Learning Hierarchical Features for Scene Labeling, PAMI, 2013.
 * University of Cambridge [[Web]](http://mi.eng.cam.ac.uk/projects/segnet/)
-  * "SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation." arXiv preprint arXiv:1511.00561, 2015. [[Paper]](http://arxiv.org/abs/1511.00561)
-*  "Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding." arXiv preprint arXiv:1511.02680, 2015. [[Paper]](http://arxiv.org/abs/1511.00561)
+  * "SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation."  2015. [[Paper]](http://arxiv.org/abs/1511.00561)
+*  "Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding."  2015. [[Paper]](http://arxiv.org/abs/1511.00561)
   * "Multi-Scale Context Aggregation by Dilated Convolutions", ICLR 2016, [[Paper](http://arxiv.org/pdf/1511.07122v2.pdf)]
   * "Segment-Phrase Table for Semantic Segmentation, Visual Entailment and Paraphrasing", ICCV, 2015, [[Paper](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Izadinia_Segment-Phrase_Table_for_ICCV_2015_paper.pdf)]
   * "Pusing the Boundaries of Boundary Detection Using deep Learning", ICLR 2016, [[Paper](http://arxiv.org/pdf/1511.07386v2.pdf)]
