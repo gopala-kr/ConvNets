@@ -1,4 +1,4 @@
-
+----------------
   - CNN Architectures
     - [LeNet(1998)] 
     - [LeNet-5 (2010)] 
@@ -27,7 +27,7 @@
     - [deeply-supervised networks]
     - [ladder network]
 
-
+-------------------------
 
    - [Image Classification]
       - [Face Recognition]    
