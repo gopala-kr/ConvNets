@@ -10,8 +10,7 @@
 ](https://github.com/zhengshou/scnn) |  [tensorflow-image-classification](https://github.com/rdcolema/tensorflow-image-classification) | [Image_Classification_with_5_methods](https://github.com/Fdevmsy/Image_Classification_with_5_methods) | [SRGAN-tensorflow](https://github.com/brade31919/SRGAN-tensorflow) | [Chainer_Mask_R-CNN](https://github.com/DeNA/Chainer_Mask_R-CNN) | [How-to-learn-Deep-Learning
 ](https://github.com/emilwallner/How-to-learn-Deep-Learning) | [CUDA-CNN](https://github.com/zhxfl/CUDA-CNN)  [Convolutional-Neural-Stock-Market-Technical-Analyser](https://github.com/philipxjm/Convolutional-Neural-Stock-Market-Technical-Analyser) | [ShuffleNet-An-Extremely-Efficient-CNN-for-Mobile-Devices-Caffe-Reimplementation](https://github.com/HolmesShuan/ShuffleNet-An-Extremely-Efficient-CNN-for-Mobile-Devices-Caffe-Reimplementation) | [chainer-cifar10](https://github.com/mitmul/chainer-cifar10) | [simple_cnn](https://github.com/can1357/simple_cnn) | [caption_generator](https://github.com/anuragmishracse/caption_generator) | [Implementation-CVPR2015-CNN-for-ReID](https://github.com/Ning-Ding/Implementation-CVPR2015-CNN-for-ReID) | [Theano-3D-ConvNet](https://github.com/lpigou/Theano-3D-ConvNet) | [flask-keras-cnn-image-retrieval](https://github.com/willard-yuan/flask-keras-cnn-image-retrieval) | [caffe-oxford102](https://github.com/jimgoo/caffe-oxford102) | [text_convnet
 ](https://github.com/taolei87/text_convnet) | [honk](https://github.com/castorini/honk) | [JavaCNN](https://github.com/BigPeng/JavaCNN) | [VQA-tensorflow](https://github.com/JamesChuanggg/VQA-tensorflow) | [CryptocurrencyPrediction
-](https://github.com/khuangaf/CryptocurrencyPrediction) || 
-
-|| [vision](https://github.com/pytorch/vision) |
+](https://github.com/khuangaf/CryptocurrencyPrediction)  |
+ [vision](https://github.com/pytorch/vision) ||
 
 ---------------
