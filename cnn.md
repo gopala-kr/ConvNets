@@ -8,6 +8,11 @@
 - A Non-Technical Survey on Deep Convolutional Neural Network Architectures. 2018 [[arxiv](https://arxiv.org/abs/1803.02129v1)]
 - The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches. 2018. [[arxiv](https://arxiv.org/abs/1803.01164v1)]
 - [Comparative Study of CNN and RNN for Natural Language Processing](https://arxiv.org/pdf/1702.01923v1.pdf)
+- [A Survey on Deep Learning Methods for Robot Vision](https://arxiv.org/ftp/arxiv/papers/1803/1803.10862.pdf)
+- [A Taxonomy of Deep Convolutional Neural Nets for Computer Vision](https://arxiv.org/pdf/1601.06615v1.pdf)
+- [cvpaper.challenge in 2016: Futuristic Computer
+Vision through 1,600 Papers Survey](https://arxiv.org/pdf/1707.06436v1.pdf)
+
 
 #### Understanding CNN
 
