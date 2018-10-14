@@ -61,6 +61,8 @@
 <p align="center">
   <img width="1000" src="https://github.com/hoya012/deep_learning_object_detection/blob/master/assets/deep_learning_object_detection_history.PNG" "Example of anomaly detection.">
 </p>
+
+
 --------------
 
 - [cnn](https://github.com/gopala-kr/CNNs/blob/master/cnn.md)
