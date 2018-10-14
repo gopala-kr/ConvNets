@@ -116,4 +116,8 @@ A paper list of object detection using deep learning. I worte with reference to 
 
 - Zero-Annotation Object Detection with Web Knowledge Transfer | Qingyi Tao, et al. | **[ECCV' 18]** |[`[pdf]`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Qingyi_Tao_Zero-Annotation_Object_Detection_ECCV_2018_paper.pdf)
 
+
+- [Recent Advances in Object Detection in the Age
+of Deep Convolutional Neural Networks](https://arxiv.org/pdf/1809.03193v1.pdf), sep-2018.
+
 ---------------
