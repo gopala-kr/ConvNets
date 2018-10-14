@@ -17,3 +17,4 @@ Deep Learning for surveillance face recognition](https://arxiv.org/pdf/1610.0137
 - [A Good Practice Towards Top Performance of Face Recognition: Transferred Deep Feature Fusion](https://arxiv.org/pdf/1704.00438v2.pdf)
 - [Deep Learning Architectures for Face Recognition in Video Surveillance](https://arxiv.org/pdf/1802.09990v2.pdf)
 - [Multi-view Face Detection Using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1502.02766.pdf)
+- [Face Recognition Techniques: A Survey](https://arxiv.org/abs/1803.07288v5)
