@@ -5,7 +5,7 @@
 
 ----------------
 
-##### CNN Architectures
+### CNN Architectures
 
   - [LeNet(1998)] 
   - [LeNet-5 (2010)] 
@@ -43,7 +43,7 @@
 ![cnn_computation](https://github.com/gopala-kr/CNNs/blob/master/resources/img/cnn_computation.PNG)
 
 -------------------------
-#### Applications
+### Applications
 
    - [Image Classification]
       - [Face Recognition]    
@@ -78,6 +78,9 @@
 
 --------------
 
+### References
+
+- [ref-implementations](https://github.com/gopala-kr/CNNs/blob/master/ref-implementations.md)
 - [cnn](https://github.com/gopala-kr/CNNs/blob/master/cnn.md)
 - [image-video-classificatio](https://github.com/gopala-kr/CNNs/blob/master/image-video-classification.md)
 - [object-detection](https://github.com/gopala-kr/CNNs/blob/master/object-detection.md)
@@ -88,7 +91,7 @@
 - [low-level-vision](https://github.com/gopala-kr/CNNs/blob/master/low-level-vision.md)
 - [vision-and-nlp](https://github.com/gopala-kr/CNNs/blob/master/vision-and-nlp.md)
 - [other](https://github.com/gopala-kr/CNNs/blob/master/other.md)
-- [ref-implementations](https://github.com/gopala-kr/CNNs/blob/master/ref-implementations.md)
+- [face-recognition](https://github.com/gopala-kr/CNNs/blob/master/face-recognition.md)
 
 
 
