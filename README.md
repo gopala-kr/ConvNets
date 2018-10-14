@@ -1,3 +1,8 @@
+
+-----------
+
+![cnn](https://github.com/gopala-kr/CNNs/blob/master/resources/img/cnn.PNG)
+
 ----------------
   - CNN Architectures
     - [LeNet(1998)] 
