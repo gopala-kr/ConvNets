@@ -24,3 +24,10 @@ Vision through 1,600 Papers Survey](https://arxiv.org/pdf/1707.06436v1.pdf)
 *  Visualizing and Understanding Convolutional Networks, ECCV, 2014. [[Paper]](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 
 ------------
+![cnn_models](https://github.com/gopala-kr/CNNs/blob/master/resources/img/cnn_models.PNG)
+
+------------
+
+![cnn_computation](https://github.com/gopala-kr/CNNs/blob/master/resources/img/cnn_computation.PNG)
+
+-------------------------
