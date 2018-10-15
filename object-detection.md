@@ -1,4 +1,8 @@
 
+
+
+- [awesome-object-detection](https://github.com/amusi/awesome-object-detection)
+
 A paper list of object detection using deep learning. I worte with reference to [this survey paper](https://arxiv.org/pdf/1809.02165v1.pdf)  
 
 
