@@ -5,7 +5,7 @@
 
 ----------------
 
-### CNN Architectures
+#### CNN Architectures
 
   - [LeNet(1998)] 
   - [LeNet-5 (2010)] 
@@ -45,7 +45,7 @@
 -------------------------
 ### Applications
 
-   - [Image Classification](#image-classification)   
+   - [Image Classification](#cnn-architectures)   
    - [Object Recognition]
    - [Object Tracking]
    - [Object Localisation]
@@ -122,7 +122,7 @@
 - ICNet [[arxiv](https://arxiv.org/pdf/1704.08545.pdf)][[Caffe](https://github.com/hszhao/ICNet )]
 - ERFNet [[arxiv](http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17iv.pdf)][[Torch](https://github.com/Eromera/erfnet )]
 - RefineNet [[arxiv](https://arxiv.org/pdf/1611.06612.pdf)][[tensorflow](https://github.com/tangzhenyu/SemanticSegmentation_DL/tree/master/RefineNet)]
-- PSPNet [[arxiv](https://arxiv.org/pdf/1612.01105.pdf),https://hszhao.github.io/projects/pspnet/][Caffe](https://github.com/hszhao/PSPNet )]
+- PSPNet [[arxiv](https://arxiv.org/pdf/1612.01105.pdf),[pspnet](https://hszhao.github.io/projects/pspnet/)][[Caffe](https://github.com/hszhao/PSPNet )]
 - Dilated convolution [[arxiv](https://arxiv.org/pdf/1511.07122.pdf)][[Caffe](https://github.com/fyu/dilation )]
 - DeconvNet [[arxiv](https://arxiv.org/pdf/1505.04366.pdf)][[Caffe](http://cvlab.postech.ac.kr/research/deconvnet/ )]
 - FRRN [[arxiv](https://arxiv.org/pdf/1611.08323.pdf)][[Lasagne](https://github.com/TobyPDE/FRRN )]
@@ -131,7 +131,7 @@
 - DUC, HDC [[arxiv](https://arxiv.org/pdf/1702.08502.pdf)][[PyTorch](https://github.com/ZijunDeng/pytorch-semantic-segmentation )]
 - MultiNet [[arxiv](https://arxiv.org/pdf/1612.07695.pdf)] [[tensorflow1](https://github.com/MarvinTeichmann/MultiNet)[tensorflow2](https://github.com/MarvinTeichmann/KittiSeg)]
 - Segaware [[arxiv](https://arxiv.org/pdf/1708.04607.pdf)][[Caffe](https://github.com/aharley/segaware )]
-- Semantic Segmentation using Adversarial Networks [[arxiv](https://arxiv.org/pdf/1611.08408.pdf)] [[Chainer](+ https://github.com/oyam/Semantic-Segmentation-using-Adversarial-Networks )]
+- Semantic Segmentation using Adversarial Networks [[arxiv](https://arxiv.org/pdf/1611.08408.pdf)] [[Chainer](https://github.com/oyam/Semantic-Segmentation-using-Adversarial-Networks )]
 - In-Place Activated BatchNorm:obtain #1 positions [[arxiv](https://arxiv.org/abs/1712.02616)] [[Pytorch](https://github.com/mapillary/inplace_abn)]
 
 
