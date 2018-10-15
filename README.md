@@ -57,7 +57,7 @@
      - [RPN]
      - [Fast R-CNN]
      - [R-FCN]
-   - [Image Segmentation]
+   - [Semantic Segmentation]
    - [Image Captioning]
    - [Biomedical Imaging]
      - [MDNet]
@@ -74,6 +74,36 @@
 <p align="center">
   <img width="1000" src="https://github.com/hoya012/deep_learning_object_detection/blob/master/assets/deep_learning_object_detection_history.PNG" "Example of anomaly detection.">
 </p>
+
+
+--------------
+
+#### Semantic Segmentation
+
+- U-Net [https://arxiv.org/pdf/1505.04597.pdf][Pytorch](https://github.com/tangzhenyu/SemanticSegmentation_DL/tree/master/U-net)
+- SegNet [https://arxiv.org/pdf/1511.00561.pdf][Caffe](https://github.com/alexgkendall/caffe-segnet)
+- DeepLab [https://arxiv.org/pdf/1606.00915.pdf][Caffe](https://bitbucket.org/deeplab/deeplab-public/)
+- FCN [https://arxiv.org/pdf/1605.06211.pdf][tensorflow](https://github.com/tangzhenyu/SemanticSegmentation_DL/tree/master/FCN)
+- ENet [https://arxiv.org/pdf/1606.02147.pdf][Caffe](https://github.com/TimoSaemann/ENet)
+- LinkNet [https://arxiv.org/pdf/1707.03718.pdf][Torch](https://github.com/e-lab/LinkNet)
+- DenseNet [https://arxiv.org/pdf/1608.06993.pdf]
+- Tiramisu [https://arxiv.org/pdf/1611.09326.pdf]
+- DilatedNet [https://arxiv.org/pdf/1511.07122.pdf]
+- PixelNet [https://arxiv.org/pdf/1609.06694.pdf][Caffe](https://github.com/aayushbansal/PixelNet)
+- ICNet [https://arxiv.org/pdf/1704.08545.pdf][Caffe](https://github.com/hszhao/ICNet )
+- ERFNet [http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17iv.pdf][Torch](https://github.com/Eromera/erfnet )
+- RefineNet [https://arxiv.org/pdf/1611.06612.pdf][tensorflow](https://github.com/tangzhenyu/SemanticSegmentation_DL/tree/master/RefineNet)
+- PSPNet [https://arxiv.org/pdf/1612.01105.pdf,https://hszhao.github.io/projects/pspnet/][Caffe](https://github.com/hszhao/PSPNet )
+- Dilated convolution [https://arxiv.org/pdf/1511.07122.pdf][Caffe](https://github.com/fyu/dilation )
+- DeconvNet [https://arxiv.org/pdf/1505.04366.pdf][Caffe](http://cvlab.postech.ac.kr/research/deconvnet/ )
+- FRRN [https://arxiv.org/pdf/1611.08323.pdf][Lasagne](https://github.com/TobyPDE/FRRN )
+- GCN [https://arxiv.org/pdf/1703.02719.pdf][PyTorch](https://github.com/ZijunDeng/pytorch-semantic-segmentation )
+- LRR [https://arxiv.org/pdf/1605.02264.pdf][Matconvnet](https://github.com/golnazghiasi/LRR )
+- DUC, HDC [https://arxiv.org/pdf/1702.08502.pdf][PyTorch](https://github.com/ZijunDeng/pytorch-semantic-segmentation )
+- MultiNet [https://arxiv.org/pdf/1612.07695.pdf] [tensorflow1](https://github.com/MarvinTeichmann/MultiNet)[tensorflow2](https://github.com/MarvinTeichmann/KittiSeg)
+- Segaware [https://arxiv.org/pdf/1708.04607.pdf][Caffe](https://github.com/aharley/segaware )
+- Semantic Segmentation using Adversarial Networks [https://arxiv.org/pdf/1611.08408.pdf] [Chainer](+ https://github.com/oyam/Semantic-Segmentation-using-Adversarial-Networks )
+- In-Place Activated BatchNorm:obtain #1 positions [https://arxiv.org/abs/1712.02616] [Pytorch](https://github.com/mapillary/inplace_abn)
 
 
 --------------
