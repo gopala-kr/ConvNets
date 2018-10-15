@@ -36,13 +36,6 @@
 
 --------------
 
-![cnn_models](https://github.com/gopala-kr/CNNs/blob/master/resources/img/cnn_models.PNG)
-
-------------
-
-![cnn_computation](https://github.com/gopala-kr/CNNs/blob/master/resources/img/cnn_computation.PNG)
-
--------------------------
 ### Applications
 
    - [Image Classification](#cnn-architectures)   
