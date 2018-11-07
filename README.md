@@ -132,6 +132,7 @@
 
 ### References
 
+- [neural-network-papers](https://github.com/robertsdionne/neural-network-papers)
 - [ref-implementations](https://github.com/gopala-kr/CNNs/blob/master/ref-implementations.md)
 - [cnn](https://github.com/gopala-kr/CNNs/blob/master/cnn.md)
 - [image-video-classification](https://github.com/gopala-kr/CNNs/blob/master/image-video-classification.md)
