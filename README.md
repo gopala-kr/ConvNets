@@ -150,7 +150,7 @@
 
 -------------
 
-_**Author**_
+_**Maintainer**_
 
 Gopala KR / @gopala-kr
 
