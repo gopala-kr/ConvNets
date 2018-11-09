@@ -9,7 +9,7 @@
 
   - [LeNet(1998)] 
   - [LeNet-5 (2010)] 
-  - [AlexNet (2012)]
+  - [AlexNet (2012)] [[paper](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)]
   - [ZFNet(2013)]
   - [VGGNet (2014)]
   - [GoogleNet/Inception(2014)]
