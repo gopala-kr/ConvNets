@@ -42,7 +42,6 @@
    - [Object Detection](#object-detection) 
    - [Object Localisation]
    - [Semantic Segmentation](#semantic-segmentation)
-   - [Image Captioning]
    - [Object Tracking]   
    
 ### Applications
@@ -55,7 +54,7 @@
    - [Video Analysis]
    - [3D Vision]
    - [Face Recognition]
-   
+   - [Image Captioning]   
 ------------
 
 #### Object Detection
@@ -184,6 +183,41 @@
 - [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 
 -------------
+
+![cnn_1](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn_1.PNG)
+
+----------
+![cnn_2](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn_2.PNG)
+
+----------
+![cnn_3](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn_3.PNG)
+
+----------
+![cnn_4](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn_4.PNG)
+
+----------
+![cnn_5](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn_5.PNG)
+
+----------
+![cnn_6](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn_6.PNG)
+
+----------
+![cnn_7](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn_7.PNG)
+
+----------
+![cnn_8](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn_8.PNG)
+
+----------
+![cnn_9](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn_9.PNG)
+
+----------
+![cnn_10](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn_10.PNG)
+
+----------
+![cnn_11](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn_11.PNG)
+
+
+-----------
 
 _**Maintainer**_
 
