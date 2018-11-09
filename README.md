@@ -36,28 +36,28 @@
 
 
 --------------
+#### CV Tasks
 
-### Applications
-
-   - [Image Classification](#cnn-architectures)   
-   - [Object Recognition]
-   - [Object Tracking]
-   - [Object Localisation]
+   - [Object Recognition / Object Classification](#cnn-architectures)   
    - [Object Detection](#object-detection) 
+   - [Object Localisation]
    - [Semantic Segmentation](#semantic-segmentation)
    - [Image Captioning]
+   - [Object Tracking]   
+   
+### Applications
+
    - [Biomedical Imaging]
      - [MDNet]
      - [U-Net]
      - [R2U-Net]
    - [Remote Sensing]
    - [Video Analysis]
-   - [Motion Detection]
-   - [Human Pose Estimation]
    - [3D Vision]
-   - [Face Recognition] 
-  
+   - [Face Recognition]
+   
 ------------
+
 #### Object Detection
 
 <p align="center">
