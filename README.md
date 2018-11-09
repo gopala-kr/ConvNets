@@ -23,7 +23,7 @@
   - [ResNeXt(2016)] [[paper](https://arxiv.org/pdf/1611.05431.pdf)]
   - [CapsNet(2017)] [[paper](https://arxiv.org/ftp/arxiv/papers/1805/1805.11195.pdf)]
   - [MobileNets(2017)] [[paper](https://arxiv.org/pdf/1704.04861.pdf)]
-  - [fast region based CNN]
+  - [fast region based CNN] [[paper](https://arxiv.org/pdf/1506.01497.pdf)]
   - [Xception(2017)] [[paper](https://arxiv.org/abs/1610.02357)]
   - [RCNN(2014)] [[paper](https://arxiv.org/abs/1311.2524)]
   - [IRCNN(2017)][[paper](https://arxiv.org/pdf/1704.03264.pdf)]
