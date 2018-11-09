@@ -7,7 +7,7 @@
 
 #### CNN Architectures
 
-  - [LeNet(1998)] 
+  - [LeNet(1998)] [[paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)]
   - [LeNet-5 (2010)] [[paper](http://yann.lecun.com/exdb/lenet/)]
   - [AlexNet (2012)] [[paper](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)]
   - [ZFNet(2013)] [[paper](https://arxiv.org/pdf/1311.2901.pdf)]
@@ -20,19 +20,19 @@
   - [SegNet(2016)] [[paper](https://arxiv.org/pdf/1511.00561.pdf)]
   - [YOLO(2015)] [[Paper](https://arxiv.org/pdf/1506.02640.pdf)]
   - [SqueezeNet(2017)] [[Paper](https://arxiv.org/pdf/1709.01507.pdf)] [[code](https://github.com/hujie-frank/SENet)]
-  - [ResNeXt(2016)]
-  - [CapsueNet(2017)]
-  - [MobileNets]
+  - [ResNeXt(2016)] [[paper](https://arxiv.org/pdf/1611.05431.pdf)]
+  - [CapsNet(2017)] [[paper](https://arxiv.org/ftp/arxiv/papers/1805/1805.11195.pdf)]
+  - [MobileNets(2017)] [[paper](https://arxiv.org/pdf/1704.04861.pdf)]
   - [fast region based CNN]
-  - [Xception]
-  - [RCNN]
-  - [IRCNN]
-  - [ViP CNN]
-  - [Look up based CNN]
-  - [FCN]
-  - [Deep network with stochastic depth]
-  - [Deeply-supervised networks]
-  - [Ladder network]
+  - [Xception(2017)] [[paper](https://arxiv.org/abs/1610.02357)]
+  - [RCNN(2014)] [[paper](https://arxiv.org/abs/1311.2524)]
+  - [IRCNN(2017)][[paper](https://arxiv.org/pdf/1704.03264.pdf)]
+  - [ViP CNN(2017)] [[paper](https://arxiv.org/pdf/1702.07191.pdf)]
+  - [Look up based CNN(2016)] [[paper](https://arxiv.org/pdf/1611.06473.pdf)]
+  - [FCN(2014)] [[paper](https://arxiv.org/pdf/1411.4038.pdf)]
+  - [Deep network with stochastic depth(2016)] [[paper](https://arxiv.org/pdf/1603.09382.pdf)]
+  - [Deeply-supervised networks(2014)] [[paper](https://arxiv.org/pdf/1409.5185.pdf)]
+  - [Ladder network(2015)] [[paper](https://arxiv.org/pdf/1507.02672.pdf)]
 
 --------------
 
@@ -151,6 +151,7 @@
 
 - [What I learned from competing against a ConvNet on ImageNet](http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/)
 - [neural-network-architectures](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba)
+- [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 
 -------------
 
