@@ -8,18 +8,18 @@
 #### CNN Architectures
 
   - [LeNet(1998)] 
-  - [LeNet-5 (2010)] 
+  - [LeNet-5 (2010)] [[paper](http://yann.lecun.com/exdb/lenet/)]
   - [AlexNet (2012)] [[paper](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)]
-  - [ZFNet(2013)]
-  - [VGGNet (2014)]
-  - [GoogleNet/Inception(2014)]
-  - [ResNet(2015)]
-  - [FractalNet (2016)]
-  - [PolyNet/Inception-Residual(2016)]
-  - [DenseNet(2017)]    
-  - [SegNet(2015)]
-  - [YOLO(2015)]
-  - [SqueezeNet(2016)]
+  - [ZFNet(2013)] [[paper](https://arxiv.org/pdf/1311.2901.pdf)]
+  - [VGGNet (2014)] [[paper](https://arxiv.org/pdf/1409.1556.pdf)]
+  - [GoogleNet/Inception(2014)] [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)]
+  - [ResNet(2015)] [[paper](https://arxiv.org/pdf/1512.03385.pdf)]
+  - [FractalNet (2016)] [[paper](https://arxiv.org/pdf/1605.07648.pdf)]
+  - [PolyNet/Inception-Residual(2016)] [[paper](https://arxiv.org/pdf/1611.05725.pdf)]
+  - [DenseNet(2016)] [[paper](https://arxiv.org/pdf/1608.06993.pdf)] [[code](https://github.com/liuzhuang13/DenseNet)] 
+  - [SegNet(2016)] [[paper](https://arxiv.org/pdf/1511.00561.pdf)]
+  - [YOLO(2015)] [[Paper](https://arxiv.org/pdf/1506.02640.pdf)]
+  - [SqueezeNet(2017)] [[Paper](https://arxiv.org/pdf/1709.01507.pdf)] [[code](https://github.com/hujie-frank/SENet)]
   - [ResNeXt(2016)]
   - [CapsueNet(2017)]
   - [MobileNets]
@@ -147,6 +147,9 @@
 - [face-recognition](https://github.com/gopala-kr/CNNs/blob/master/face-recognition.md)
 - [cv-datasets](https://github.com/gopala-kr/ConvNets/blob/master/cv-datasets.md)
 
+------------
+
+- [What I learned from competing against a ConvNet on ImageNet](http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/)
 
 -------------
 
