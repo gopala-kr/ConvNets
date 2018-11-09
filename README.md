@@ -150,6 +150,7 @@
 ------------
 
 - [What I learned from competing against a ConvNet on ImageNet](http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/)
+- [neural-network-architectures](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba)
 
 -------------
 
