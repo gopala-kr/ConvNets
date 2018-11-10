@@ -27,13 +27,13 @@
   - [Look up based CNN(2016)] [[paper](https://arxiv.org/pdf/1611.06473.pdf)]
   - [Deep network with stochastic depth(2016)] [[paper](https://arxiv.org/pdf/1603.09382.pdf)]
   - [ResNeXt(2016)] [[paper](https://arxiv.org/pdf/1611.05431.pdf)]
+  - [SqueezeNet(2016)] [[paper](https://arxiv.org/pdf/1602.07360.pdf)] [[code](https://github.com/DeepScale/SqueezeNet)]
   - [CapsNet(2017)] [[paper](https://arxiv.org/ftp/arxiv/papers/1805/1805.11195.pdf)]
   - [MobileNets(2017)] [[paper](https://arxiv.org/pdf/1704.04861.pdf)]
   - [Xception(2017)] [[paper](https://arxiv.org/abs/1610.02357)]
   - [IRCNN(2017)][[paper](https://arxiv.org/pdf/1704.03264.pdf)]
   - [ViP CNN(2017)] [[paper](https://arxiv.org/pdf/1702.07191.pdf)]
-  - [SqueezeNet(2017)] [[Paper](https://arxiv.org/pdf/1709.01507.pdf)] [[code](https://github.com/hujie-frank/SENet)]
-
+  - [Squeeze-and-Excitation Networks(2017)][[Paper](https://arxiv.org/pdf/1709.01507.pdf)] [[code](https://github.com/hujie-frank/SENet)]
 
 --------------
 #### CV Tasks
