@@ -40,9 +40,9 @@
 
    - [Object Recognition / Object Classification](#cnn-architectures)   
    - [Object Detection](#object-detection) 
-   - [Object Localisation]
    - [Semantic Segmentation](#semantic-segmentation)
    - [Object Tracking](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)   
+   - [Pose estimation]   
    - [Biomedical Imaging]
    - [Remote Sensing]
    - [Video Analysis]
@@ -176,6 +176,7 @@
 - [What I learned from competing against a ConvNet on ImageNet](http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/)
 - [neural-network-architectures](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba)
 - [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
+- [Recognition, Detection, Segmentation and Tracking](https://handong1587.github.io/computer_vision/2015/10/09/recognition-detection-segmentation-tracking.html)
 
 ----------
 ![cnn_4](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn_4.PNG)
