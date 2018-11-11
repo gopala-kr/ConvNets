@@ -47,14 +47,12 @@
 ### Applications
 
    - [Biomedical Imaging]
-     - [MDNet]
-     - [U-Net]
-     - [R2U-Net]
    - [Remote Sensing]
    - [Video Analysis]
    - [3D Vision]
    - [Face Recognition]
    - [Image Captioning]   
+   
 ------------
 
 #### Object Detection
