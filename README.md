@@ -36,16 +36,13 @@
   - [Squeeze-and-Excitation Networks(2017)][[Paper](https://arxiv.org/pdf/1709.01507.pdf)] [[code](https://github.com/hujie-frank/SENet)]
 
 --------------
-#### CV Tasks
+### Applications
 
    - [Object Recognition / Object Classification](#cnn-architectures)   
    - [Object Detection](#object-detection) 
    - [Object Localisation]
    - [Semantic Segmentation](#semantic-segmentation)
    - [Object Tracking]   
-   
-### Applications
-
    - [Biomedical Imaging]
    - [Remote Sensing]
    - [Video Analysis]
