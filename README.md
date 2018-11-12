@@ -173,6 +173,7 @@
 
 ------------
 
+- [A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas](https://arxiv.org/abs/1510.04781)
 - [What I learned from competing against a ConvNet on ImageNet](http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/)
 - [neural-network-architectures](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba)
 - [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
