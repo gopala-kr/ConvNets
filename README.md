@@ -179,6 +179,8 @@
 - [Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures](https://arxiv.org/pdf/1601.03896.pdf)
 - [Best Practices for Applying Deep Learning to Novel Applications](https://arxiv.org/ftp/arxiv/papers/1704/1704.01568.pdf)
 - [Adversarial Examples: Attacks and Defenses for Deep Learnin](https://arxiv.org/pdf/1712.07107.pdf)
+- [Deep Learning:
+A Critical Appraisal ](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
 - [What I learned from competing against a ConvNet on ImageNet](http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/)
 - [neural-network-architectures](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba)
 - [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
