@@ -178,7 +178,7 @@
 - [Survey on the attention based RNN model and its applications in computer vision](https://arxiv.org/pdf/1601.06823.pdf)
 - [Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures](https://arxiv.org/pdf/1601.03896.pdf)
 - [Best Practices for Applying Deep Learning to Novel Applications](https://arxiv.org/ftp/arxiv/papers/1704/1704.01568.pdf)
-- [Adversarial Examples: Attacks and Defenses for Deep Learnin](https://arxiv.org/pdf/1712.07107.pdf)
+- [Adversarial Examples: Attacks and Defenses for Deep Learning](https://arxiv.org/pdf/1712.07107.pdf)
 - [Adversarial Examples that Fool both Human and Computer Vision](https://arxiv.org/pdf/1802.08195v2.pdf)
 - [Deep Learning:
 A Critical Appraisal ](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
