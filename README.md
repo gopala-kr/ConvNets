@@ -122,6 +122,7 @@
 - [OSD（One-Shot object Detection）(2018)] [[paper](https://arxiv.org/pdf/1807.05857.pdf)]
 - [Weakly Supervised Object Detection(2018)] [[paper](https://arxiv.org/pdf/1810.02569.pdf)]
 - [Softer-NMS (2018)] [[paper](https://arxiv.org/pdf/1809.08545.pdf)]
+- [VideoCapsuleNet(2018)]   [[paper](https://arxiv.org/pdf/1805.08162v1.pdf)]
 
 --------------
 
