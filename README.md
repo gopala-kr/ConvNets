@@ -153,6 +153,8 @@
 - In-Place Activated BatchNorm:obtain #1 positions [[arxiv](https://arxiv.org/abs/1712.02616)] [[Pytorch](https://github.com/mapillary/inplace_abn)]
 - [SegCaps(2018)]  [[arxiv](https://arxiv.org/abs/1804.04241v1)]
 - [SegFinNet(2018)] [[arxiv](https://arxiv.org/abs/1804.09650v1)]
+- [SUNets(2018)]   [[arxiv](https://arxiv.org/abs/1804.10343v1)]
+
 --------------
 
 ### References
