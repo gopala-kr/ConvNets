@@ -34,7 +34,7 @@
   - [IRCNN(2017)][[paper](https://arxiv.org/pdf/1704.03264.pdf)]
   - [ViP CNN(2017)] [[paper](https://arxiv.org/pdf/1702.07191.pdf)]
   - [Squeeze-and-Excitation Networks(2017)][[Paper](https://arxiv.org/pdf/1709.01507.pdf)] [[code](https://github.com/hujie-frank/SENet)]
-  - [MobileFaceNets(2018)]  [[](https://arxiv.org/abs/1804.07573v1)]
+  - [MobileFaceNets(2018)]  [[paper](https://arxiv.org/abs/1804.07573v1)]
 
 --------------
 ### Applications
