@@ -82,7 +82,7 @@
  * [The PASCAL Visual Object Classes](http://pascallin.ecs.soton.ac.uk/challenges/VOC/)
  * [ImageNet Object Detection Challenge](http://www.image-net.org/challenges/LSVRC/2014/)
  * [Microsoft COCO](http://mscoco.org/)
-
+ * [EuroCity Persons Dataset](https://arxiv.org/abs/1805.07193v1)
 ###### Semantic labeling
  * [Stanford background dataset](http://dags.stanford.edu/projects/scenedataset.html)
  * [CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
