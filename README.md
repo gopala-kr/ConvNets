@@ -152,7 +152,7 @@
 - Semantic Segmentation using Adversarial Networks [[arxiv](https://arxiv.org/pdf/1611.08408.pdf)] [[Chainer](https://github.com/oyam/Semantic-Segmentation-using-Adversarial-Networks )]
 - In-Place Activated BatchNorm:obtain #1 positions [[arxiv](https://arxiv.org/abs/1712.02616)] [[Pytorch](https://github.com/mapillary/inplace_abn)]
 - [SegCaps(2018)]  [[arxiv](https://arxiv.org/abs/1804.04241v1)]
-
+- [SegFinNet(2018)] [[arxiv](https://arxiv.org/abs/1804.09650v1)]
 --------------
 
 ### References
