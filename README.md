@@ -35,7 +35,7 @@
   - [ViP CNN(2017)] [[paper](https://arxiv.org/pdf/1702.07191.pdf)]
   - [Squeeze-and-Excitation Networks(2017)][[Paper](https://arxiv.org/pdf/1709.01507.pdf)] [[code](https://github.com/hujie-frank/SENet)]
   - [MobileFaceNets(2018)]  [[paper](https://arxiv.org/abs/1804.07573v1)]
-
+  - [DCNet and DCNet++(2018)]  [[paper](https://arxiv.org/abs/1805.04001v1)]
 --------------
 ### Applications
 
