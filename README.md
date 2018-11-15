@@ -193,6 +193,7 @@ A Critical Appraisal ](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
 - [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 - [Recognition, Detection, Segmentation and Tracking](https://handong1587.github.io/computer_vision/2015/10/09/recognition-detection-segmentation-tracking.html)
 - [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
+- [Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks](https://arxiv.org/abs/1806.05393v1)
 
 ----------
 ![cnn_4](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn_4.PNG)
