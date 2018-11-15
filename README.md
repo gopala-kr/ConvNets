@@ -192,6 +192,7 @@ A Critical Appraisal ](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
 - [neural-network-architectures](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba)
 - [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 - [Recognition, Detection, Segmentation and Tracking](https://handong1587.github.io/computer_vision/2015/10/09/recognition-detection-segmentation-tracking.html)
+- [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
 
 ----------
 ![cnn_4](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn_4.PNG)
