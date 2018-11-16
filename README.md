@@ -198,6 +198,8 @@ A Critical Appraisal ](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
 - [Adversarial Attacks and Defences: A Survey](https://arxiv.org/pdf/1810.00069v1.pdf)
 - [Secure Deep Learning Engineering:
 A Software Quality Assurance Perspective](https://arxiv.org/pdf/1810.04538v1.pdf)
+- [Face Recognition: From Traditional to Deep
+Learning Methods](https://arxiv.org/pdf/1811.00116v1.pdf)
 
 ----------
 ![cnn_4](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn_4.PNG)
