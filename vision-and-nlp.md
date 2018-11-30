@@ -86,3 +86,5 @@
   *  *Training Recurrent Answering Units with Joint Loss Minimization for VQA*, arXiv:1606.03647
 * SNU + NAVER [[Paper](http://arxiv.org/abs/1610.04325)]
   * *Hadamard Product for Low-rank Bilinear Pooling*, arXiv:1610.04325.
+  
+  -----------
