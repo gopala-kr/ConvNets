@@ -22,6 +22,7 @@
   * Recurrent Models of Visual Attention, NIPS, 2014.
 
 
+
 ### Other Topics
 * Visual Analogy [[Paper](https://web.eecs.umich.edu/~honglak/nips2015-analogy.pdf)]
   * Deep Visual Analogy Making, NIPS, 2015
