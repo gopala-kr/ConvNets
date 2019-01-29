@@ -22,6 +22,7 @@ Vision through 1,600 Papers Survey](https://arxiv.org/pdf/1707.06436v1.pdf)
 *  Object Detectors Emerge in Deep Scene CNNs, ICLR, 2015. [[arXiv Paper]](http://arxiv.org/abs/1412.6856)
 *  Inverting Visual Representations with Convolutional Networks, arXiv, 2015. [[Paper]](http://arxiv.org/abs/1506.02753)
 *  Visualizing and Understanding Convolutional Networks, ECCV, 2014. [[Paper]](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
+* [Automatically Evolving CNN Architectures Based on Blocks](https://arxiv.org/abs/1810.11875v1)
 
 ------------
 ![cnn_models](https://github.com/gopala-kr/CNNs/blob/master/resources/img/cnn_models.PNG)
