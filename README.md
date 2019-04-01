@@ -37,7 +37,7 @@
   - [MobileFaceNets(2018)]  [[paper](https://arxiv.org/abs/1804.07573v1)]
   - [DCNet and DCNet++(2018)]  [[paper](https://arxiv.org/abs/1805.04001v1)]
 --------------
-### Applications
+#### Applications
 
    - [Object Recognition / Object Classification](#cnn-architectures)   
    - [Object Detection](#object-detection) 
@@ -158,7 +158,7 @@
 
 --------------
 
-### References
+#### References
 
 - [neural-network-papers](https://github.com/robertsdionne/neural-network-papers)
 - [ref-implementations](https://github.com/gopala-kr/CNNs/blob/master/ref-implementations.md)
