@@ -18,3 +18,28 @@ Deep Learning for surveillance face recognition](https://arxiv.org/pdf/1610.0137
 - [Deep Learning Architectures for Face Recognition in Video Surveillance](https://arxiv.org/pdf/1802.09990v2.pdf)
 - [Multi-view Face Detection Using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1502.02766.pdf)
 - [Face Recognition Techniques: A Survey](https://arxiv.org/abs/1803.07288v5)
+
+------------
+- [Wav2Pix: Speech-conditioned Face Generation using Generative Adversarial Networks](https://arxiv.org/abs/1903.10195v1)
+- [FaceLiveNet+: A Holistic Networks For Face Authentication Based On Dynamic Multi-task Convolutional Neural Networks](https://arxiv.org/abs/1902.11179v1)
+- [Joint Face Detection and Facial Motion Retargeting for Multiple Faces](https://arxiv.org/abs/1902.10744v1)
+- [Video Face Recognition: Component-wise Feature Aggregation Network (C-FAN)](https://arxiv.org/abs/1902.07327v2)
+- [WIDER Face and Pedestrian Challenge 2018: Methods and Results](https://arxiv.org/abs/1902.06854v1)
+- [Deep learning and face recognition: the state of the art](https://arxiv.org/abs/1902.03524v1)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+-------------
