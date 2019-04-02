@@ -7,6 +7,8 @@
 
 #### CNN Architectures
 
+[Back to top](#applications)
+
   - [LeNet(1998)] [[paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)]
   - [LeNet-5 (2010)] [[paper](http://yann.lecun.com/exdb/lenet/)]
   - [AlexNet (2012)] [[paper](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)]
@@ -39,6 +41,8 @@
 --------------
 #### Applications
 
+[Back to top](#applications)
+
    - [Object Recognition / Object Classification](#cnn-architectures)   
    - [Object Detection](#object-detection) 
    - [Semantic Segmentation](#semantic-segmentation)
@@ -50,10 +54,12 @@
    - [3D Vision]
    - [Face Recognition]
    - [Image Captioning]   
-   
+
 ------------
 
 #### Object Detection
+
+[Back to top](#applications)
 
 <p align="center">
   <img width="1000" src="https://github.com/hoya012/deep_learning_object_detection/blob/master/assets/deep_learning_object_detection_history.PNG" "Example of anomaly detection.">
@@ -127,6 +133,8 @@
 --------------
 
 #### Semantic Segmentation
+
+[Back to top](#applications)
 
 - U-Net [[arxiv](https://arxiv.org/pdf/1505.04597.pdf)][[Pytorch](https://github.com/tangzhenyu/SemanticSegmentation_DL/tree/master/U-net)]
 - SegNet [[arxiv](https://arxiv.org/pdf/1511.00561.pdf)][[Caffe](https://github.com/alexgkendall/caffe-segnet)]
