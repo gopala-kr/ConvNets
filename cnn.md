@@ -1,5 +1,29 @@
 #### Surveys
 
+- [Understanding Convolutional Neural Networks with Information Theory: An Initial Exploration](https://arxiv.org/abs/1804.06537v3)
+- [All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification](https://arxiv.org/abs/1903.05285v1)
+- [Evolving Deep Convolutional Neural Networks for Image Classification](https://arxiv.org/abs/1710.10741v3)
+- [A Survey of the Recent Architectures of Deep Convolutional Neural Networks](https://arxiv.org/abs/1901.06032v1)
+- [Convolutional Neural Networks combined with Runge-Kutta Methods](https://arxiv.org/abs/1802.08831v6)
+- [UAN: Unified Attention Network for Convolutional Neural Networks](https://arxiv.org/abs/1901.05376v1)
+- [Distill-Net: Application-Specific Distillation of Deep Convolutional Neural Networks for Resource-Constrained IoT Platforms](https://arxiv.org/abs/1812.07390v1)
+- [CNN-Cert: An Efficient Framework for Certifying Robustness of Convolutional Neural Networks](https://arxiv.org/abs/1811.12395v1)
+- [Convolutional Neural Networks Deceived by Visual Illusions](https://arxiv.org/abs/1811.10565v1)
+- [Accelerating the Evolution of Convolutional Neural Networks with Node-Level Mutations and Epigenetic Weight Initialization](https://arxiv.org/abs/1811.08286v1)
+- [Newton Methods for Convolutional Neural Networks](https://arxiv.org/abs/1811.06100v1)
+- [Alpha-Pooling for Convolutional Neural Networks](https://arxiv.org/abs/1811.03436v1)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
+
+----------------
+
 - Recent Advances in Convolutional Neural Networks. 2017 [[arxiv](https://arxiv.org/abs/1512.07108v6)]
 - Recent Advances in Efficient Computation of Deep Convolutional Neural Networks. 2018. [[arxiv](https://arxiv.org/abs/1802.00939v2)]
 - Efficient Processing of Deep Neural Networks: A Tutorial and Survey. 2017. [[arxiv](https://arxiv.org/abs/1703.09039v2)]
