@@ -12,13 +12,11 @@
 - [Accelerating the Evolution of Convolutional Neural Networks with Node-Level Mutations and Epigenetic Weight Initialization](https://arxiv.org/abs/1811.08286v1)
 - [Newton Methods for Convolutional Neural Networks](https://arxiv.org/abs/1811.06100v1)
 - [Alpha-Pooling for Convolutional Neural Networks](https://arxiv.org/abs/1811.03436v1)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Distilling Critical Paths in Convolutional Neural Networks](https://arxiv.org/abs/1811.02643v2)
+- [MPNA: A Massively-Parallel Neural Array Accelerator with Dataflow Optimization for Convolutional Neural Networks](https://arxiv.org/abs/1810.12910v1)
+- [A Bi-layered Parallel Training Architecture for Large-scale Convolutional Neural Networks](https://arxiv.org/abs/1810.07742v1)
+- [Convolutional Neural Networks In Convolution](https://arxiv.org/abs/1810.03946v1)
+- [Recent Advances in Object Detection in the Age of Deep Convolutional Neural Networks](https://arxiv.org/abs/1809.03193v1)
 
 
 
