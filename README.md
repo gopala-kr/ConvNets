@@ -48,13 +48,14 @@
    - [Object Recognition / Object Classification](#cnn-architectures)   
    - [Object Detection](#object-detection) 
    - [Semantic Segmentation](#semantic-segmentation)
-   - [Object Tracking](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)   
+   - [Object Tracking](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md) 
+   - [Activity/Action Recognition]
+   - [Face Recognition]
    - [Pose estimation]   
    - [Biomedical Imaging]
    - [Remote Sensing]
    - [Video Analysis]
    - [3D Vision]
-   - [Face Recognition]
    - [Image Captioning]   
 
 ------------
