@@ -4,6 +4,8 @@
 ![cnn](https://github.com/gopala-kr/CNNs/blob/master/resources/img/cnn.PNG)
 
 ----------------
+![img72](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/img72.jpg)
+------------------
 
 #### CNN Architectures
 
