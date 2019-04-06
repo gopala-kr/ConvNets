@@ -49,12 +49,13 @@
    - [Face Recognition] 
    - [Pose estimation] 
    - [Video & Image Captioning]  
-   - [Biomedical Imaging]
+   - [Biomedical Imaging] [SOTA](https://paperswithcode.com/area/med)
    - [Remote Sensing] 
    - [Video Analysis]
    - [3D Vision]
    - [CNNs for NLP]
    - [CNNs for Speech Processing]
+   - [Adversarial Attacks on CNN]
 
 
 ------------
