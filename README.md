@@ -41,11 +41,11 @@
 
 [Back to top](#applications)
 
-   - [Object Recognition / Object Classification](#cnn-architectures)   [SOTA](https://paperswithcode.com/task/image-classification/latest#code)
-   - [Object Detection](#object-detection) [SOTA](https://paperswithcode.com/task/object-detection/latest#code)
-   - [Semantic Segmentation](#semantic-segmentation) [SOTA](https://paperswithcode.com/task/semantic-segmentation/latest#code)
-   - [Object Tracking](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md) [SOTA]()
-   - [Activity/Action Recognition] [SOTA]()
+   - [Object Recognition / Object Classification](#cnn-architectures)   [[SOTA](https://paperswithcode.com/task/image-classification/latest#code)]
+   - [Object Detection](#object-detection) [[SOTA](https://paperswithcode.com/task/object-detection/latest#code)]
+   - [Semantic Segmentation](#semantic-segmentation) [[SOTA](https://paperswithcode.com/task/semantic-segmentation/latest#code)]
+   - [Object Tracking](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md) [[SOTA]()]
+   - [Activity/Action Recognition] [[SOTA]()]
    - [Face Recognition] 
    - [Pose estimation] 
    - [Video & Image Captioning]  
