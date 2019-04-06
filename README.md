@@ -40,6 +40,7 @@
   - [Squeeze-and-Excitation Networks(2017)][[Paper](https://arxiv.org/pdf/1709.01507.pdf)] [[code](https://github.com/hujie-frank/SENet)]
   - [MobileFaceNets(2018)]  [[paper](https://arxiv.org/abs/1804.07573v1)]
   - [DCNet and DCNet++(2018)]  [[paper](https://arxiv.org/abs/1805.04001v1)]
+  
 --------------
 #### Applications
 
@@ -52,11 +53,14 @@
    - [Activity/Action Recognition]
    - [Face Recognition]
    - [Pose estimation]   
+   - [Video & Image Captioning]   
    - [Biomedical Imaging]
    - [Remote Sensing]
    - [Video Analysis]
    - [3D Vision]
-   - [Image Captioning]   
+   - [CNNs for NLP]
+   - [CNNs for Speech Processing]
+
 
 ------------
 
@@ -216,18 +220,14 @@ Learning Methods](https://arxiv.org/pdf/1811.00116v1.pdf)
 
 ----------
 ![cnn_4](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn_4.PNG)
-
 ----------
 ![cnn_5](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn_5.PNG)
-
 ----------
 ![cnn_6](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn_6.PNG)
-
 
 ----------
 ![cnn_11](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn_11.PNG)
 ---------------
-
 ![cnn21](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn21.PNG)
 ![cnn22](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn22.PNG)
 ![cnn23](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn23.PNG)
