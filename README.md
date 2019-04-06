@@ -1,14 +1,6 @@
 
 -----------
 
-![cnn](https://github.com/gopala-kr/CNNs/blob/master/resources/img/cnn.PNG)
--------
-
-![1542368857926](https://www.mathworks.com/content/mathworks/www/en/discovery/deep-learning/jcr:content/mainParsys/band_2123350969_copy_1983242569/mainParsys/columns_1635259577/1/image_2128876021_cop.adapt.full.low.svg/1542368857926.svg)
-
-----------------
-![img72](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/img72.jpg)
-------------------
 
 #### CNN Architectures
 
@@ -222,6 +214,12 @@ Learning Methods](https://arxiv.org/pdf/1811.00116v1.pdf)
 - [Deep Learning For Computer Vision Tasks: A review](https://arxiv.org/ftp/arxiv/papers/1804/1804.03928.pdf)
 
 ----------
+![cnn](https://github.com/gopala-kr/CNNs/blob/master/resources/img/cnn.PNG)
+-------
+![1542368857926](https://www.mathworks.com/content/mathworks/www/en/discovery/deep-learning/jcr:content/mainParsys/band_2123350969_copy_1983242569/mainParsys/columns_1635259577/1/image_2128876021_cop.adapt.full.low.svg/1542368857926.svg)
+----------------
+![img72](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/img72.jpg)
+------------------
 ![cnn_4](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn_4.PNG)
 ----------
 ![cnn_5](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/cnn_5.PNG)
