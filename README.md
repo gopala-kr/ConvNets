@@ -55,7 +55,7 @@
    - [3D Vision]
    - [CNNs for NLP]
    - [CNNs for Speech Processing]
-   - [Adversarial Attacks on CNN]
+   - [Adversarial Attacks on CNN] [SOTA](https://paperswithcode.com/area/adversarial)
 
 
 ------------
