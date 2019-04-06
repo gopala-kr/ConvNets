@@ -186,7 +186,9 @@
 - [cv-datasets](https://github.com/gopala-kr/ConvNets/blob/master/cv-datasets.md)
 
 ------------
-
+- First paper on Memorization in DNNs: https://arxiv.org/abs/1611.03530
+- A closer look at memorization in Deep Networks: https://arxiv.org/abs/1706.05394
+- Opening the Black Box of Deep Neural Networks via Information: https://arxiv.org/abs/1703.00810
 - [Understanding Deep Convolutional Networks](https://arxiv.org/pdf/1601.04920.pdf)
 - [A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas](https://arxiv.org/abs/1510.04781)
 - [Survey on the attention based RNN model and its applications in computer vision](https://arxiv.org/pdf/1601.06823.pdf)
