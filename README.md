@@ -170,6 +170,7 @@
 
 #### References
 
+- [Computer Vision SOTA](https://paperswithcode.com/area/cv)
 - [neural-network-papers](https://github.com/robertsdionne/neural-network-papers)
 - [ref-implementations](https://github.com/gopala-kr/CNNs/blob/master/ref-implementations.md)
 - [ConvNet](https://github.com/gopala-kr/CNNs/blob/master/cnn.md)
