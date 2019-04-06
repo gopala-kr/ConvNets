@@ -2,6 +2,9 @@
 -----------
 
 ![cnn](https://github.com/gopala-kr/CNNs/blob/master/resources/img/cnn.PNG)
+-------
+
+![1542368857926](https://www.mathworks.com/content/mathworks/www/en/discovery/deep-learning/jcr:content/mainParsys/band_2123350969_copy_1983242569/mainParsys/columns_1635259577/1/image_2128876021_cop.adapt.full.low.svg/1542368857926.svg)
 
 ----------------
 ![img72](https://github.com/gopala-kr/ConvNets/blob/master/resources/img/img72.jpg)
