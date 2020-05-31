@@ -47,6 +47,12 @@ Vision through 1,600 Papers Survey](https://arxiv.org/pdf/1707.06436v1.pdf)
 *  Inverting Visual Representations with Convolutional Networks, arXiv, 2015. [[Paper]](http://arxiv.org/abs/1506.02753)
 *  Visualizing and Understanding Convolutional Networks, ECCV, 2014. [[Paper]](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 * [Automatically Evolving CNN Architectures Based on Blocks](https://arxiv.org/abs/1810.11875v1)
+- [Systolic Tensor Array: An Efficient Structured-Sparse GEMM Accelerator for Mobile CNN Inference](https://arxiv.org/abs/2005.08098v1)
+- [CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization](https://arxiv.org/abs/2004.15004v2)
+- [Weighted Random Search for CNN Hyperparameter Optimization](https://arxiv.org/abs/2003.13300v1)
+- [Automatically designing CNN architectures using genetic algorithm for image classification](https://arxiv.org/abs/1808.03818v3)
+- [A Systematic Evaluation: Fine-Grained CNN vs. Traditional CNN Classifiers](https://arxiv.org/abs/2003.11154v1)
+- [CNN 101: Interactive Visual Learning for Convolutional Neural Networks](https://arxiv.org/abs/2001.02004v3)
 
 ------------
 ![cnn_models](https://github.com/gopala-kr/CNNs/blob/master/resources/img/cnn_models.PNG)
