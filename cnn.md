@@ -62,3 +62,45 @@ Vision through 1,600 Papers Survey](https://arxiv.org/pdf/1707.06436v1.pdf)
 ![cnn_computation](https://github.com/gopala-kr/CNNs/blob/master/resources/img/cnn_computation.PNG)
 
 -------------------------
+
+CNN - Aug 2019 - Jan 2020
+
+- [CSNNs: Unsupervised, Backpropagation-free Convolutional Neural Networks for Representation Learning](https://arxiv.org/abs/2001.10388v2)
+- [Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future](https://arxiv.org/abs/2001.07092v1)
+- [Powerset Convolutional Neural Networks](https://arxiv.org/abs/1909.02253v4)
+- [Pruning Convolutional Neural Networks with Self-Supervision](https://arxiv.org/abs/2001.03554v1)
+- [Inferring Convolutional Neural Networks' accuracies from their architectural characterizations](https://arxiv.org/abs/2001.02160v2) :star:
+- [CNN 101: Interactive Visual Learning for Convolutional Neural Networks](https://arxiv.org/abs/2001.02004v1)
+- [A Survey of the Recent Architectures of Deep Convolutional Neural Networks](https://arxiv.org/abs/1901.06032v4)
+- [TentacleNet: A Pseudo-Ensemble Template for Accurate Binary Convolutional Neural Networks](https://arxiv.org/abs/1912.10103v2)
+- [diffGrad: An Optimization Method for Convolutional Neural Networks](https://arxiv.org/abs/1909.11015v2)
+- [Convolutional Neural Networks: A Binocular Vision Perspective](https://arxiv.org/abs/1912.10201v1)
+- [A Winograd-based Integrated Photonics Accelerator for Convolutional Neural Networks](https://arxiv.org/abs/1906.10487v2)
+- [Object Detection with Convolutional Neural Networks](https://arxiv.org/abs/1912.01844v1)
+- [Using Fully Convolutional Neural Networks to detect manipulated images in videos](https://arxiv.org/abs/1911.13269v1)
+- [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946v3)
+- [Technical report: supervised training of convolutional spiking neural networks with PyTorch](https://arxiv.org/abs/1911.10124v1) :star:
+- [Streaming convolutional neural networks for end-to-end learning with multi-megapixel images](https://arxiv.org/abs/1911.04432v1)
+- [Multimodal Video-based Apparent Personality Recognition Using Long Short-Term Memory and Convolutional Neural Networks](https://arxiv.org/abs/1911.00381v1)
+- [Best Practices for Convolutional Neural Networks Applied to Object Recognition in Images](https://arxiv.org/abs/1910.13029v1)
+- [Ensemble of Convolutional Neural Networks Trained with Different Activation Functions](https://arxiv.org/abs/1905.02473v4)
+- [Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/1910.12933v1)
+- [Aerial Images Processing for Car Detection using Convolutional Neural Networks: Comparison between Faster R-CNN and YoloV3](https://arxiv.org/abs/1910.07234v1)
+- [Optimizing Convolutional Neural Networks for Embedded Systems by Means of Neuroevolution](https://arxiv.org/abs/1910.06854v1)
+- [Liver segmentation and metastases detection in MR images using convolutional neural networks](https://arxiv.org/abs/1910.06635v1)
+- [Training convolutional neural networks with cheap convolutions and online distillation](https://arxiv.org/abs/1909.13063v3)
+- [Discovering Molecular Functional Groups Using Graph Convolutional Neural Networks](https://arxiv.org/abs/1812.00265v3) :star:
+- [GACNN: Training Deep Convolutional Neural Networks with Genetic Algorithm](https://arxiv.org/abs/1909.13354v1)
+- [Towards Learning of Filter-Level Heterogeneous Compression of Convolutional Neural Networks](https://arxiv.org/abs/1904.09872v4)
+- [Deep Convolutional Spiking Neural Networks for Image Classification](https://arxiv.org/abs/1903.12272v2)
+- [The Good, the Bad and the Ugly: Evaluating Convolutional Neural Networks for Prohibited Item Detection Using Real and Synthetically Composited X-ray Imagery](https://arxiv.org/abs/1909.11508v1)
+- [Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1909.08174v1)
+- [Convolutional neural networks: a magic bullet for gravitational-wave detection?](https://arxiv.org/abs/1904.08693v2)
+- [ANTNets: Mobile Convolutional Neural Networks for Resource Efficient Image Classification](https://arxiv.org/abs/1904.03775v2)
+- [Recent Advances in Object Detection in the Age of Deep Convolutional Neural Networks](https://arxiv.org/abs/1809.03193v2)
+- [Diagnosing Cardiac Abnormalities from 12-Lead Electrocardiograms Using Enhanced Deep Convolutional Neural Networks](https://arxiv.org/abs/1908.06802v1)
+- [Universal Pooling -- A New Pooling Method for Convolutional Neural Networks](https://arxiv.org/abs/1907.11440v1)
+- [SpykeTorch: Efficient Simulation of Convolutional Spiking Neural Networks with at most one Spike per Neuron](https://arxiv.org/abs/1903.02440v2)
+- [AirwayNet: A Voxel-Connectivity Aware Approach for Accurate Airway Segmentation Using Convolutional Neural Networks](https://arxiv.org/abs/1907.06852v1)
+- [Neuron ranking -- an informed way to condense convolutional neural networks architecture](https://arxiv.org/abs/1907.02519v2)
+-----------
