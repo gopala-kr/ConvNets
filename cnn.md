@@ -1,5 +1,11 @@
 #### Surveys
 
+---------------
+- [Visual Object Detection, Recognition & Tracking (without Deep Learning)](https://www.slideshare.net/yuhuang/visual-object-detection-recognition-tracking-without-deep-learning)
+- [Visual Detection, Recognition and Tracking with Deep Learning](https://www.slideshare.net/yuhuang/visual-detection-recognition-and-tracking-with-deep-learning)
+- [SLAM, Visual Odometry, Structure from Motion, Multiple View Stereo](https://www.slideshare.net/yuhuang/visual-slam-structure-from-motion-multiple-view-stereo)
+- [Deep learning for image denoising and superresolution](https://www.slideshare.net/yuhuang/deep-learning-for-image-denoising-superresolution-27435126)
+---------------------
 2018-19
 
 - [Understanding Convolutional Neural Networks with Information Theory: An Initial Exploration](https://arxiv.org/abs/1804.06537v3)
