@@ -114,5 +114,8 @@ CNN - Aug 2019 - Jan 2020
 - [Shuffler: A Large Scale Data Management Tool for ML in Computer Vision](https://arxiv.org/pdf/2104.05125v1.pdf)
 - [Reconsidering CO2 emissions from Computer Vision](https://arxiv.org/pdf/2104.08702v1.pdf)
 - [Application of Computer Vision and Machine Learning for Digitized Herbarium Specimens: A Systematic Literature Review](https://arxiv.org/ftp/arxiv/papers/2104/2104.08732.pdf)
+- [A survey of image labelling for computer vision applications](https://arxiv.org/ftp/arxiv/papers/2104/2104.08885.pdf)
+- [Computer vision in automated parking systems: Design, implementation and challenges](https://arxiv.org/pdf/2104.12537v1.pdf)
+
 
 ---------
