@@ -116,6 +116,6 @@ CNN - Aug 2019 - Jan 2020
 - [Application of Computer Vision and Machine Learning for Digitized Herbarium Specimens: A Systematic Literature Review](https://arxiv.org/ftp/arxiv/papers/2104/2104.08732.pdf)
 - [A survey of image labelling for computer vision applications](https://arxiv.org/ftp/arxiv/papers/2104/2104.08885.pdf)
 - [Computer vision in automated parking systems: Design, implementation and challenges](https://arxiv.org/pdf/2104.12537v1.pdf)
-
+- [WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training](https://arxiv.org/pdf/2103.06561v5.pdf)
 
 ---------
