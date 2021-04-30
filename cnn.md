@@ -110,3 +110,9 @@ CNN - Aug 2019 - Jan 2020
 - [AirwayNet: A Voxel-Connectivity Aware Approach for Accurate Airway Segmentation Using Convolutional Neural Networks](https://arxiv.org/abs/1907.06852v1)
 - [Neuron ranking -- an informed way to condense convolutional neural networks architecture](https://arxiv.org/abs/1907.02519v2)
 -----------
+- [INODE: Building an End-to-End Data Exploration System in Practice [Extended Vision]](https://arxiv.org/pdf/2104.04194v1.pdf)
+- [Shuffler: A Large Scale Data Management Tool for ML in Computer Vision](https://arxiv.org/pdf/2104.05125v1.pdf)
+- [Reconsidering CO2 emissions from Computer Vision](https://arxiv.org/pdf/2104.08702v1.pdf)
+- [Application of Computer Vision and Machine Learning for Digitized Herbarium Specimens: A Systematic Literature Review](https://arxiv.org/ftp/arxiv/papers/2104/2104.08732.pdf)
+
+---------
