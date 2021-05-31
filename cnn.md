@@ -6,6 +6,8 @@
 - [SLAM, Visual Odometry, Structure from Motion, Multiple View Stereo](https://www.slideshare.net/yuhuang/visual-slam-structure-from-motion-multiple-view-stereo)
 - [Deep learning for image denoising and superresolution](https://www.slideshare.net/yuhuang/deep-learning-for-image-denoising-superresolution-27435126)
 - [A Full-stack Accelerator Search Technique for Vision Applications](https://arxiv.org/pdf/2105.12842.pdf)
+- [Survey: Convolution Neural networks in Object Detection](https://iopscience.iop.org/article/10.1088/1742-6596/1804/1/012095/pdf)
+
 
 ---------------------
 2018-19
